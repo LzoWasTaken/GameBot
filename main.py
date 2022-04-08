@@ -24,4 +24,4 @@ async def help(ctx):
 
 bot.load_extension('games')
 bot.load_extension('command_logging')
-bot.run('OTYyMTE2NTExOTExMjYwMTcw.YlC20w.pXkcB1BdTOZMRdUHfKSGCI_QWXI')
+bot.run('BOT TOKEN')
