@@ -1,7 +1,9 @@
-'''
+"""
 Purpose: A discord bot that allows server members to play games by themselves or with one another. 
+
+Author: Lzo
 Creation Date: 17/10/2021
-'''
+"""
 
 import discord
 import specifications
